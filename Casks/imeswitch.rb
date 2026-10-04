@@ -1,6 +1,6 @@
 cask "imeswitch" do
-  version "0.1.0"
-  sha256 "d3cf0d1b6d6c67cacf1fa68f15b54aa1517016603bad622db002f8c870188db9"
+  version "0.2.0"
+  sha256 "aa639dcd6e744fa8b6e74320997404a1d8e339958b363d9974f0d75ed8f0c145"
 
   url "https://github.com/fanzeyi/ime-switch/releases/download/#{version}/IMESwitch.zip"
   name "IMESwitch"
